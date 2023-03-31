@@ -27,6 +27,7 @@ body{
     background-color: #0872BF 70;
     box-shadow: 0 0 100px #0872BF;
     cursor: pointer;
+    border-radius: 4px;
 }
 
 .face.top{
